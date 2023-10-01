@@ -10,6 +10,7 @@ AIM: Create an Video player and Youtube player application by following below in
 
 4) Add Internet Permssion in Manifest file
 
-![image](https://github.com/Chintan0484/MAD_practical7_21012011002/assets/98694412/c2f64897-c15f-4dc3-b3ef-9b4b73c5653c)
+![image](https://github.com/Chintan0484/MAD_practical7_21012011002/assets/98694412/60458d75-da0b-4389-99fd-a0d8760b1cf5)
 
-![image](https://github.com/Chintan0484/MAD_practical7_21012011002/assets/98694412/f5565f7d-2b82-4dc9-9fed-30d71b326572)
+![image](https://github.com/Chintan0484/MAD_practical7_21012011002/assets/98694412/e86f0b34-d8ee-41e3-8a97-e41c3d9d5708)
+
